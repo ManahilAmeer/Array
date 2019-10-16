@@ -31,3 +31,4 @@ int main()
 	cout << "Subtraction of array elements = " << sub;
 	return 0;
 }
+//The console will show the sum and difference
